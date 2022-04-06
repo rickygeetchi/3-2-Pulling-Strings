@@ -1,0 +1,19 @@
+{
+  "name": "pullingstrings",
+  "version": "1.0.0",
+  "description": "pulling strings",
+  "main": "src/index.js",
+  "module": "src/_main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "strings"
+  ],
+  "author": "Roderick Smith",
+  "license": "ISC",
+  "dependencies": {
+    "esm": "^3.2.25"
+  }
+}
